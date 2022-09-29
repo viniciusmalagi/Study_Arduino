@@ -1,2 +1,2 @@
 # Study_Arduino
-For stud.
+For study.
